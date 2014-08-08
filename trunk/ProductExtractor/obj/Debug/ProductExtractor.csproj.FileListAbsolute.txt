@@ -1,0 +1,9 @@
+D:\Downloads\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.exe
+D:\Downloads\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.pdb
+D:\Downloads\ProductExtractor\ProductExtractor\bin\Debug\ProductExtractor.exe
+D:\Downloads\ProductExtractor\ProductExtractor\bin\Debug\ProductExtractor.pdb
+D:\Downloads\ProductExtractor\ProductExtractor\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.Form1.resources
+D:\Downloads\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.Properties.Resources.resources
+D:\Downloads\ProductExtractor\ProductExtractor\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Downloads\ProductExtractor\ProductExtractor\obj\Debug\GenerateResource-ResGen.write.1.tlog
