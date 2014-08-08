@@ -1,0 +1,8 @@
+C:\Documents and Settings\TUAN ANH\My Documents\Visual Studio 2005\Projects\ProductExtractor\ProductExtractor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TUAN ANH\My Documents\Visual Studio 2005\Projects\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.Properties.Resources.resources
+C:\Documents and Settings\TUAN ANH\My Documents\Visual Studio 2005\Projects\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.csproj.GenerateResource.Cache
+C:\Documents and Settings\TUAN ANH\My Documents\Visual Studio 2005\Projects\ProductExtractor\ProductExtractor\bin\Debug\ProductExtractor.exe
+C:\Documents and Settings\TUAN ANH\My Documents\Visual Studio 2005\Projects\ProductExtractor\ProductExtractor\bin\Debug\ProductExtractor.pdb
+C:\Documents and Settings\TUAN ANH\My Documents\Visual Studio 2005\Projects\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.exe
+C:\Documents and Settings\TUAN ANH\My Documents\Visual Studio 2005\Projects\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.pdb
+C:\Documents and Settings\TUAN ANH\My Documents\Visual Studio 2005\Projects\ProductExtractor\ProductExtractor\obj\Debug\ProductExtractor.Form1.resources
