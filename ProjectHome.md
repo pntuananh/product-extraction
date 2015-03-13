@@ -1,0 +1,1 @@
+A tool for extracting product information from e-commercial websites.
